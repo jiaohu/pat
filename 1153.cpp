@@ -1,3 +1,8 @@
+/*
+超时点
+ 1. map, 使用unordered_map代替
+ 2. string类型可以使用.c_str()方法用pritf("%s")输出
+*/
 #include<iostream>
 #include<cstdio>
 #include<string>
